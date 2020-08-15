@@ -5,3 +5,16 @@
 .nav-text {
 	font-family: 'Lemonada', cursive;
 }
+
+.bg-cover {	
+	margin: 20px;
+
+	background-size: cover;
+	/*background-color: red;*/
+	background: url('cover_pic.jpg') no-repeat center center fixed;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	color: white;
+	font-weight: bold;
+
+}
